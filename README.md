@@ -1,5 +1,6 @@
 # Recursion-Problems
-This repository contains few frequently asked questions on recursion during placements.
+This repository contains few frequently asked coding problems
+ on recursion during placements.
 </br>
 </br>
 </br>
